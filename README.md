@@ -1,1 +1,1 @@
-# ESP32-CAM-upload-delete-files-with-WebServer
+In the content of the file, there are code files where you can connect the ESP32-CAM device to your own network by entering the information of your own network with STA mode, or connecting with wifi thanks to the ESP32-CAM device acting as an Access Point with AP mode. After the connection is established, you can upload or delete files in the SD card via different ports.
